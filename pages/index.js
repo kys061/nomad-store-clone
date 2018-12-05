@@ -15,7 +15,7 @@ const Index = () => (
                 </PostLink>
             </li>
             <li>
-                <PostLink title={"something else"}>
+                <PostLink title={"somethingElse"}>
                 </PostLink>
             </li>
         </ul>
